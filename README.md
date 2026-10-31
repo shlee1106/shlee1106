@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shlee1106/shlee1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요, 개발자 이승희입니다 👋
 
-Here are some ideas to get you started:
+풀스택과 AI를 함께 다루며, 항상 호기심을 가지는 개발자를 지향합니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](본인의_포트폴리오_링크_주소_입력)
+
+</div>
+
+---
+
+### About Me
+
+<img src="https://github-readme-stats.vercel.app/api?username=hee5254007@naver.com&show_icons=true&theme=transparent" />
