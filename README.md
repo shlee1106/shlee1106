@@ -5,9 +5,11 @@ i<div align="center">
 </div>
 
 <div align="center">
-  <a href="dltmdgml42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="블로그주소"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <a href="mailto:dltmdgml42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!--<a href="블로그주소"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a> -->
 </div>
+
+<br>
 
 ---
 
@@ -23,16 +25,23 @@ i<div align="center">
 ### 💻 My Projects
 
 <div align="center">
-  <!-- 사용 언어 통계 (개인 Vercel 서버 적용) -->
+  <!-- 사용 언어 통계 -->
   <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/top-langs/?username=shlee1106&layout=compact&theme=dark" />
   
   <br><br>
   
-  <!-- 프로젝트 저장소 카드 (개인 Vercel 서버 적용) -->
+  <!-- 2. 프로젝트 저장소 카드 (프론트엔드 이름 8PMFrontEnd로 수정) -->
   <a href="https://github.com/shlee1106/MES-AI-ChatBot-Web-BackEnd">
     <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/pin/?username=shlee1106&repo=MES-AI-ChatBot-Web-BackEnd&theme=dark&show_owner=true" width="400" />
   </a>
-  <a href="https://github.com/shlee1106/MES-AI-ChatBot-Web-FrontEnd">
-    <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/pin/?username=shlee1106&repo=MES-AI-ChatBot-Web-FrontEnd&theme=dark&show_owner=true" width="400" />
+  <a href="https://github.com/shlee1106/8PMFrontEnd">
+    <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/pin/?username=shlee1106&repo=8PMFrontEnd&theme=dark&show_owner=true" width="400" />
   </a>
+</div>
+
+<br>
+
+<!-- 3. 방문자 수 카운터 (우측 하단 배치) -->
+<div align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshlee1106&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
