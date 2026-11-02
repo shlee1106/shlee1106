@@ -1,11 +1,11 @@
 i<div align="center">
 
-### <h3>안녕하세요, 사람들과 함께 나아가는 개발자 이승희입니다.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" align="top" /></h3> 
+### <h1>안녕하세요, 사람들과 함께 나아가는 개발자 이승희입니다.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" align="top" /></h1> 
 
 </div>
 
 <div align="center">
-  <a href="mailto:dltmdgml42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <h2><a href="mailto:dltmdgml42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></h2>
   <!--<a href="블로그주소"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a> -->
 </div>
 
