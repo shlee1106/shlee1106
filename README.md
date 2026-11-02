@@ -22,5 +22,5 @@ i<div align="center">
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ### 💻 My Projects
 
+[![Top Langs](https://github-readme-stats-omega-murex-54.vercel.app/api/top-langs/?username=shlee1106&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlee1106&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
