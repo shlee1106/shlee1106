@@ -23,4 +23,4 @@ i<div align="center">
 ### 💻 My Projects
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1106)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1106&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
