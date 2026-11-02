@@ -22,5 +22,5 @@ i<div align="center">
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ### 💻 My Projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1106)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1106)](https://github.com/anuraghazra/github-readme-stats)
