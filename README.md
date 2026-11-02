@@ -1,6 +1,6 @@
 i<div align="center">
 
-## 안녕하세요, 사람들과 함께 나아가는 개발자 이승희입니다. <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)" alt="Waving Hand" width="30" />
+### 안녕하세요, 사람들과 함께 나아가는 개발자 이승희입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" align="top" />
 
 </div>
 
@@ -23,15 +23,16 @@ i<div align="center">
 ### 💻 My Projects
 
 <div align="center">
+  <!-- 사용 언어 통계 (개인 Vercel 서버 적용) -->
+  <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/top-langs/?username=shlee1106&layout=compact&theme=dark" />
+  
+  <br><br>
+  
+  <!-- 프로젝트 저장소 카드 (개인 Vercel 서버 적용) -->
   <a href="https://github.com/shlee1106/MES-AI-ChatBot-Web-BackEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shlee1106&repo=MES-AI-ChatBot-Web-BackEnd&theme=tokyonight&show_owner=true" width="400" />
+    <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/pin/?username=shlee1106&repo=MES-AI-ChatBot-Web-BackEnd&theme=dark&show_owner=true" width="400" />
   </a>
   <a href="https://github.com/shlee1106/MES-AI-ChatBot-Web-FrontEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shlee1106&repo=MES-AI-ChatBot-Web-FrontEnd&theme=tokyonight&show_owner=true" width="400" />
+    <img src="https://github-readme-stats-omega-murex-54.vercel.app/api/pin/?username=shlee1106&repo=MES-AI-ChatBot-Web-FrontEnd&theme=dark&show_owner=true" width="400" />
   </a>
-</div>
-[![Top Langs](https://github-readme-stats-omega-murex-54.vercel.app/api/top-langs/?username=shlee1106&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshlee1106&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
