@@ -1,6 +1,6 @@
 i<div align="center">
 
-### 안녕하세요, 사람들과 함께 나아가는 개발자 이승희입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" align="top" />
+### <h1>안녕하세요, 사람들과 함께 나아가는 개발자 이승희입니다.</h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" align="top" />
 
 </div>
 
