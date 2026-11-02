@@ -5,7 +5,7 @@ i<div align="center">
 </div>
 
 <div align="center">
-  <h2><a href="mailto:dltmdgml42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></h2>
+  <a href="mailto:dltmdgml42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!--<a href="블로그주소"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a> -->
 </div>
 
