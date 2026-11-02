@@ -22,9 +22,5 @@ i<div align="center">
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ### 💻 My Projects
 
-<div align="center">
-  <!-- 아래 '리포지토리이름' 부분을 본인의 실제 리포지토리 이름으로 변경하세요 -->
-  <a href="https://github.com/shlee1106/리포지토리이름">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shlee1106&repo=리포지토리이름&theme=dracula" />
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1106)](https://github.com/anuraghazra/github-readme-stats)
+
