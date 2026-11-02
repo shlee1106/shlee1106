@@ -23,4 +23,4 @@ i<div align="center">
 ### 💻 My Projects
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shlee1106)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlee1106&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
