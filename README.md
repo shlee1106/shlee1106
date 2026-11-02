@@ -1,4 +1,4 @@
-<div align="center">
+i<div align="center">
 
 ## 안녕하세요, 개발자 이승희입니다
 
@@ -12,7 +12,7 @@
 ### My Skil
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💻 My Projects
 
